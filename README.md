@@ -2,11 +2,10 @@
 
 Generative KI (ChatGPT) und Unity
 
-Mögliche Themen des Spiels:
-  Bar mit barkeeper,  Western Saloon, 
+Spieler ist in einer Bibliothek und kann mit dem Bibliothekar reden und viel mehr.
 
 Erste Milestones:
-  Texteingabe zum "barkeeper", Barkeeper "reagiert" erstmal mit Textnachricht
+  Texteingabe zum "Bibliothekar", Bibliothekar "reagiert" erstmal mit Textnachricht
 
 json mit dialog
 
@@ -14,4 +13,4 @@ expression
 
 action
 
-ausgabe überprüfen
+ausgabe überprüfen (optional)
